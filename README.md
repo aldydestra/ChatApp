@@ -1,4 +1,4 @@
-## hatApp ##
+## ChatApp ##
 
 Aplikasi web chat sederhana yang dikembangkan menggunakan PHP AJAX dan Jquerry sebagai dasar.
 
