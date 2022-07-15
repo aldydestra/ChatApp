@@ -1,27 +1,27 @@
 ## ChatApp ##
 
-Aplikasi web chat sederhana yang dikembangkan menggunakan PHP AJAX dan Jquerry sebagai dasar.
+This ChatApp developed using PHP AJAX and Jquerry as the core.
 
-## Instalasi ##
+## Installation ##
 
-1. Pertama, clone atau download repository ini:
+1. First of all, clone or download this repository :
 ```bash
 git clone https://github.com/aldydestra/ChatApp
 ```
-2. Saya Menggunakan XAMPP, sehingga masukkan ke `htdocs`,
-3. Import database ke `phpmyadmin`,
-4. Selesai.
+2. I am using XAMPP, so I put in `htdocs` folder,
+3. Import the database to `phpmyadmin`,
+4. Test on your localhost.
 
-## Fitur ChatApp ##
+## ChatApp Features ##
 
-| Uraian                                                              | Ket.  |
+| Description                                                              | Ket.  |
 |---------------------------------------------------------------|---|
-| Registrasi Akun                                               | ✔ |
-| Grup Chat                                            | ✔ |
+| Account Registration                                               | ✔ |
+| Chat Group                                            | ✔ |
 | Personal Chat                                                  | ✔ |
-| Notifikasi Bubble Chat Dari Pengguna Lain                                               | ✔ |
-| Hapus Pesan                                              | ✔ |
-| Status (Online/Offline) Pengguna Lain               | ✔ |
-| Kirim Media Pada Grup Chat (.jpg/.png)                                              | ✔ |
-| Kirim Media Pada Personal Chat                      | Soon |
-| Panel Admin (server side)                                     | Soon |
+| Bubble Chat notification from other users                                               | ✔ |
+| Delete Messages                                              | ✔ |
+| Visible Status (Online/Offline)               | ✔ |
+| Send media to the chat group (.jpg/.png)                                              | ✔ |
+| Send media to the personal chat (.jpg/.png)                     | Soon |
+| Admin Panel                                    | Soon |
