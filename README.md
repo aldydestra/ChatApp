@@ -14,7 +14,7 @@ git clone https://github.com/aldydestra/ChatApp
 
 ## ChatApp Features ##
 
-| Description                                                              | Ket.  |
+| Features                                                              | Desc.  |
 |---------------------------------------------------------------|---|
 | Account Registration                                               | ✔ |
 | Chat Group                                            | ✔ |
